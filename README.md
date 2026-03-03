@@ -5,5 +5,7 @@ This dashboard provides a comprehensive overview of the Amazon Prime Video conte
 
 # 🛠️ Tool and technologies used:
 ● Power BI – Dashboard creation & visualization
+
 ● Power Query – Data cleaning & transformation
+
 ● CSV Dataset – amazon_prime_titles
