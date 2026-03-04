@@ -18,4 +18,13 @@ This dashboard provides a comprehensive overview of the Amazon Prime Video conte
 
 ![1772598290603213732988599434744](https://github.com/user-attachments/assets/a49b16ed-efca-4db9-8ba7-75619158d239)
 
+# 📈 Key features of Dasboard:
+
+Data Visualization: Microsoft Power BI (or Amazon QuickSight)
+
+Data Sources: IMDb / Prime Video dataset (CSV)
+
+Data Transformation: Used Power Query to check the errors.
+
+Design: Dark-themed interactive layout emphasizing readability and contrast
 
