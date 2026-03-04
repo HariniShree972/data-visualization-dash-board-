@@ -10,3 +10,6 @@ This dashboard provides a comprehensive overview of the Amazon Prime Video conte
 
 ● CSV Dataset – amazon_prime_titles
 # 🟨 Power Query page:
+
+
+![1772597839702403001121562669956](https://github.com/user-attachments/assets/c7bdc6b4-65f9-485b-916c-51193149a712)
