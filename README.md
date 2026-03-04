@@ -14,7 +14,7 @@ This dashboard provides a comprehensive overview of the Amazon Prime Video conte
 
 ![1772597839702403001121562669956](https://github.com/user-attachments/assets/c7bdc6b4-65f9-485b-916c-51193149a712)
 
-🟨 Power BI Dasboard:
+# 🟨 Power BI Dasboard:
 
 ![1772598290603213732988599434744](https://github.com/user-attachments/assets/a49b16ed-efca-4db9-8ba7-75619158d239)
 
