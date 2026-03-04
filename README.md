@@ -40,4 +40,8 @@ Monitor catalog growth and historical content expansion.
 
 Support executive reporting with clear, data-backed insights.
 
+# 🎯 Acknowledgements:
+
+Dataset source:
+Data used for this project has been imported from Kaggle platform. Tool - Kaggle.
 
