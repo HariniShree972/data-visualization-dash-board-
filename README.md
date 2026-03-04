@@ -28,3 +28,16 @@ Data Transformation: Used Power Query to check the errors.
 
 Design: Dark-themed interactive layout emphasizing readability and contrast
 
+# 💡 Business Value:
+
+This dashboard empowers Prime Video stakeholders—content strategists, marketers, and data analysts—to:
+
+Identify content trends and viewer-relevant genres.
+
+Optimize acquisition strategies by analyzing regional production strengths.
+
+Monitor catalog growth and historical content expansion.
+
+Support executive reporting with clear, data-backed insights.
+
+
